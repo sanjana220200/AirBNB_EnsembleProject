@@ -19,7 +19,7 @@ The following files are included in this project:
 ## Requirements
 To run this project, you will need to have Python 3.x and the following Python libraries installed:
 
-numpy, \\
+numpy, \newline
 pandas,
 matplotlib,
 seaborn,
