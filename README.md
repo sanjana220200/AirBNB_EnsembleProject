@@ -42,8 +42,4 @@ To use this project, follow these steps:
 This project demonstrates the process of exploring and analyzing a dataset, performing feature engineering, and using various machine learning and ensemble learning algorithms to predict the prices of Airbnb listings in New York City. The trained models can be used for making accurate predictions on new data, which can be useful for Airbnb hosts and customers.
 
 ## Project By:
-### Swapnil PADE
-### Sanjana GUPTA
-### Sarvani SAMBARAJU
-### Xinran YAO
-### Xincheng LUO
+#### Swapnil PADE, Sanjana GUPTA, Sarvani SAMBARAJU, Xinran YAO, Xincheng LUO
