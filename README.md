@@ -1,6 +1,10 @@
-# AirBNB_EnsembleProject
-Ensemble Learning project - DSBA ESSEC & Centrale Supélec
+#Hyperparameter Tuning
 
-The data set for this project is obtained from Kaggle and contains the listings in New York City in 2019. The data set includes 15 features on listings, including: • Name of the listing • Neighborhood • Price • Review information • Availability The data set contains around 47,000 listings.
+This branch contains code for hyperparameter tuning using Random Search CV for two popular regression models, XGBoost and RandomForest. The goal is to improve the performance of these models by selecting the best hyperparameters using cross-validation.
 
-data source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+Files
+Airbnb_Data_Analysis_and_Price_Prediction_RCV.ipynb: Jupyter Notebook containing the code for hyperparameter tuning for XGBoost and RandomForest Regressors.
+Airbnb_Data_Analysis_and_Price_Prediction_XGBTuned.ipynb: Jupyter Notebook containing the code for hyperparameter tuning for XGBoostRegressor.
+
+Conclusion
+This branch provides a starting point for hyperparameter tuning using Random Search CV for XGBoost and RandomForest regressors. You can use this code as a template for tuning hyperparameters for other regression models as well.
