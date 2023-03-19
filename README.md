@@ -1,4 +1,4 @@
-# Hyperparameter Tuning
+# Hyperparameter Tuning (Random Search)
 
 This branch contains code for hyperparameter tuning using Random Search CV for two popular regression models, XGBoost and RandomForest. The goal is to improve the performance of these models by selecting the best hyperparameters using cross-validation.
 
