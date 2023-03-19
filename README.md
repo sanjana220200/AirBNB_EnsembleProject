@@ -20,11 +20,19 @@ The following files are included in this project:
 To run this project, you will need to have Python 3.x and the following Python libraries installed:
 
 numpy
+
 pandas
+
 matplotlib
+
 seaborn
+
 scikit-learn
+
 xgboost
+
+RandomForest
+
 lightgbm
 
 ## Usage
