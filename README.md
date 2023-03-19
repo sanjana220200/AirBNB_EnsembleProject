@@ -28,6 +28,7 @@ scikit-learn
 xgboost  
 RandomForest  
 lightgbm
+catboost
 
 ## Usage:
 To use this project, follow these steps:
