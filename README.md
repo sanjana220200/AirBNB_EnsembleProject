@@ -1,4 +1,5 @@
-# Ensemble Learning project - DSBA ESSEC & Centrale Supélec
+# Ensemble Learning project
+##DSBA ESSEC & Centrale Supélec
 
 ## New York City Airbnb Price Prediction
 This project is focused on predicting the prices of Airbnb listings in New York City based on various features available in the dataset obtained from Kaggle. The dataset includes approximately 47,000 listings with 15 features on each listing, such as neighborhood, price, review information, and availability.
