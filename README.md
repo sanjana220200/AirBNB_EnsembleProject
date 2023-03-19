@@ -1,6 +1,38 @@
-# AirBNB_EnsembleProject
-Ensemble Learning project - DSBA ESSEC & Centrale Supélec
+# Ensemble Learning project - DSBA ESSEC & Centrale Supélec
 
-The data set for this project is obtained from Kaggle and contains the listings in New York City in 2019. The data set includes 15 features on listings, including: • Name of the listing • Neighborhood • Price • Review information • Availability The data set contains around 47,000 listings.
+## New York City Airbnb Price Prediction
+This project is focused on predicting the prices of Airbnb listings in New York City based on various features available in the dataset obtained from Kaggle. The dataset includes approximately 47,000 listings with 15 features on each listing, such as neighborhood, price, review information, and availability.
 
-data source: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data
+## Data Source
+The dataset used for this project is obtained from Kaggle and can be found at https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data.
+
+## Project Overview
+The main objective of this project is to explore and analyze the dataset, perform feature engineering to extract useful information, and use various machine learning and ensemble learning algorithms to predict the prices of Airbnb listings in New York City.
+
+## Files Included
+The following files are included in this project:
+
+---.ipynb: This Jupyter notebook contains the code for data cleaning, exploratory data analysis, feature engineering, and model training and evaluation.
+data/AB_NYC_2019.csv: This is the original dataset obtained from Kaggle.
+
+## To run this project, you will need to have Python 3.x and the following Python libraries installed:
+
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+lightgbm
+
+## Usage
+To use this project, follow these steps:
+
+Clone the repository to your local machine.
+Navigate to the project directory.
+Open ---.ipynb using Jupyter notebook.
+Run each cell in the notebook sequentially to perform data cleaning, exploratory data analysis, feature engineering, and model training and evaluation.
+You can also modify the code and parameters to experiment with different approaches and algorithms.
+
+## Conclusion
+This project demonstrates the process of exploring and analyzing a dataset, performing feature engineering, and using various machine learning and ensemble learning algorithms to predict the prices of Airbnb listings in New York City. The trained models can be used for making accurate predictions on new data, which can be useful for Airbnb hosts and customers.
