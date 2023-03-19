@@ -12,7 +12,7 @@ The main objective of this project is to explore and analyze the dataset, perfor
 ## Files Included
 The following files are included in this project:
 
-1) ---.ipynb: This Jupyter notebook contains the code for data cleaning, exploratory data analysis, feature engineering, and model training and evaluation.
+1) Airbnb_Data_Analysis_and_Price_Prediction_Final.ipynb: This Jupyter notebook contains the code for data cleaning, exploratory data analysis, feature engineering, and model training and evaluation.
 
 2) data/AB_NYC_2019.csv: This is the original dataset obtained from Kaggle.
 
@@ -32,7 +32,7 @@ To use this project, follow these steps:
 
 1) Clone the repository to your local machine.
 2) Navigate to the project directory.
-3) Open ---.ipynb using Jupyter notebook.
+3) Open Airbnb_Data_Analysis_and_Price_Prediction_Final.ipynb using Jupyter notebook.
 4) Run each cell in the notebook sequentially to perform data cleaning, exploratory data analysis, feature engineering, and model training and evaluation.
 5) You can also modify the code and parameters to experiment with different approaches and algorithms.
 
